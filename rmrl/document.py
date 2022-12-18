@@ -197,7 +197,10 @@ class DocumentPageLayer:
             (None, None, None),
             (248/255, 241/255, 36/255),  # yellow (yellow)
             (183/255, 248/255, 73/255),  # green  (yellowish green)
-            (248/255, 79/255, 145/255)   # pink   (reddish pink)
+            (248/255, 79/255, 145/255),  # pink   (reddish pink)
+            (None, None, None),
+            (None, None, None),
+            (0.5, 0.5, 0.5) # gray
         ]
 
         # Set this from the calling func
